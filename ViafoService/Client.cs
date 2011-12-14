@@ -22,7 +22,7 @@ namespace ViafoService
     {
         public static readonly string VIAFO_RETURN_URL = "http://example.com";
 
-        private static readonly string VIAFO_SERVER = "https://vsg-live.appspot.com/client/1/";
+        private static readonly string VIAFO_SERVER = "https://vsg-test.appspot.com/client/1/";
 
         private static readonly int ANIDLength = 32;
         private static readonly int ANIDOffset = 2;
